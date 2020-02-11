@@ -4,7 +4,9 @@ Intagram clone with Express/Prisma/React
 
 ## User Stories
 
-- [ ] Log in
+- [x] Create an account
+- [ ] Request Secret
+- [ ] Confirm Secret (Login user)
 - [ ] See the feed
 - [ ] Like / Unlike a photo
 - [ ] Comment a photo
@@ -12,6 +14,5 @@ Intagram clone with Express/Prisma/React
 - [ ] See user profile
 - [ ] Follow / Unfollow a User
 - [ ] See the full photo
-- [ ] Create an account
 - [ ] Upload photos
 - [ ] Edit the photo (Delete)

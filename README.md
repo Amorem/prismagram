@@ -8,7 +8,7 @@ Intagram clone with Express/Prisma/React
 - [x] Request Secret
 - [x] Confirm Secret (Login user)
 - [x] Like / Unlike a photo
-- [ ] Comment a photo
+- [x] Comment a photo
 - [ ] Search by user
 - [ ] See user profile
 - [ ] Follow / Unfollow a User

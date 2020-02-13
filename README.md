@@ -11,8 +11,9 @@ Intagram clone with Express/Prisma/React
 - [x] Comment a photo
 - [x] Search by user
 - [x] Search by location
-- [ ] Follow a user
-- [ ] Unfollow a User
+- [x] Follow a user
+- [x] Unfollow a User
+- [x] Edit my profile
 - [ ] See user profile
 - [ ] See the full photo
 - [ ] Upload photos

@@ -9,9 +9,11 @@ Intagram clone with Express/Prisma/React
 - [x] Confirm Secret (Login user)
 - [x] Like / Unlike a photo
 - [x] Comment a photo
-- [ ] Search by user
+- [x] Search by user
+- [x] Search by location
+- [ ] Follow a user
+- [ ] Unfollow a User
 - [ ] See user profile
-- [ ] Follow / Unfollow a User
 - [ ] See the full photo
 - [ ] Upload photos
 - [ ] Edit the photo (Delete)

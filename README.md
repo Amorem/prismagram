@@ -6,9 +6,8 @@ Intagram clone with Express/Prisma/React
 
 - [x] Create an account
 - [x] Request Secret
-- [ ] Confirm Secret (Login user)
-- [ ] See the feed
-- [ ] Like / Unlike a photo
+- [x] Confirm Secret (Login user)
+- [x] Like / Unlike a photo
 - [ ] Comment a photo
 - [ ] Search by user
 - [ ] See user profile
@@ -16,3 +15,4 @@ Intagram clone with Express/Prisma/React
 - [ ] See the full photo
 - [ ] Upload photos
 - [ ] Edit the photo (Delete)
+- [ ] See the feed

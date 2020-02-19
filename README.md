@@ -19,3 +19,7 @@ Intagram clone with Express/Prisma/React
 - [ ] Upload photos
 - [ ] Edit the photo (Delete)
 - [ ] See the feed
+- [ ] See rooms
+- [ ] See room
+- [ ] Send private Message
+- [ ] Receive Message (realtime)
